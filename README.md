@@ -1,2 +1,3 @@
 # ECAC07
-Listas de Dinâmica dos Sólidos
+Listas de Modelagem de Sistemas Dinâmicos:
+Lista 1 - Diagrama de Blocos;
