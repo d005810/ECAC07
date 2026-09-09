@@ -1,8 +1,6 @@
 # Exercícios – Diagramas de Blocos
 ### ECAC07 – Modelagem de Sistemas Dinâmicos (UNIFEI)
 
-> Os diagramas abaixo estão em **Mermaid**. Se você colar este arquivo `.md` em um repositório do GitHub (ou abrir no VS Code com a extensão Mermaid), eles serão renderizados automaticamente como imagens.
-
 ---
 
 ## Exercício 1 — Série e Paralelo (aquecimento)
