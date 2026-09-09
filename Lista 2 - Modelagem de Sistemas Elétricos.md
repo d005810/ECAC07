@@ -1,8 +1,6 @@
 # Aulas 3 e 4 – Modelagem de Circuitos Elétricos
 ### ECAC07 – Modelagem de Sistemas Dinâmicos (UNIFEI)
 
-> Os esquemáticos de circuito abaixo estão em **ASCII art** dentro de blocos de código, o que garante boa legibilidade em qualquer visualizador de markdown (incluindo o GitHub). Os diagramas de blocos (quando aparecem) continuam em **Mermaid**.
-
 ---
 
 # PARTE 1 — Resumo explicado
